@@ -1,7 +1,8 @@
 # Itemmod Preset Binder (BakkesMod plugin)
 Bind BakkesMod item mod codes to garage presets in Rocket League
 
-[See it on the BakkesPlugins website](https://bakkesplugins.com/plugins/view/557)
+~~[See it on the BakkesPlugins website](https://bakkesplugins.com/plugins/view/557)~~
+...aaaand it's gone. Guess the fragile bakkesmod devs removed it 🤡 Haters gonna hate 💅
 
 ## 🚀 Description
 Create bindings to automatically apply an item mod code when equipping a garage preset. Ideal for players who frequently switch presets but want to avoid opening BakkesMod every time just to change items.
