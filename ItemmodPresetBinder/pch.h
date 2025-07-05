@@ -12,15 +12,15 @@
 #include <map>
 #include <fstream>
 
-#include "IMGUI/imgui.h"
-#include "IMGUI/imgui_stdlib.h"
-#include "IMGUI/imgui_searchablecombo.h"
-#include "IMGUI/imgui_rangeslider.h"
-#include "IMGUI/imgui_internal.h"
+#include <BakkesmodPluginTemplate/IMGUI/imgui.h>
+#include <BakkesmodPluginTemplate/IMGUI/imgui_internal.h>
+#include <BakkesmodPluginTemplate/IMGUI/imgui_stdlib.h>
+#include <BakkesmodPluginTemplate/IMGUI/imgui_searchablecombo.h>
+#include <BakkesmodPluginTemplate/IMGUI/imgui_rangeslider.h>
 
 #include "logging.h"
 
-#include <nlohmann/json.hpp>
+#include <json/single_include/nlohmann/json.hpp>
 
 namespace fs = std::filesystem;
 using json = nlohmann::json;
